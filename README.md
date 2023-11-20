@@ -1,6 +1,7 @@
 ## DSNet:Double Strand Robotic Grasp Detection\\Network Based on Cross Attention
 
-PyTorch implementation of paper "DSNet:Double Strand Robotic Grasp Detection\\Network Based on Cross Attention"
+PyTorch implementation of paper "DSNet:Double Strand Robotic Grasp Detection\\Network Based on Cross Attention".
+
 The article is currently under submission.
 
 ## Visualization of the architecture
